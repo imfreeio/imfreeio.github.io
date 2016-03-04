@@ -166,7 +166,7 @@ helpers = this.merge(helpers, Handlebars.helpers); data = data || {};
   
 
 
-  return "<div class=\"row v-height-full\">\n  <div class=\"columns large-12 v-align-center\">\n\n    <!-- <h2 class=\"text-center\">Page 5</h2> -->\n    <center>\n    <p>The Creators.<p>\n      <p></p>\n\n    <p><a href=\"https://github.com/jameslaneconkling\">James Conkling</a>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <a href=\"https://github.com/linalu1/\">Lina Lu</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <a href=\"https://github.com/oshaikh13/\">Omar Shaikh</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <a href=\"https://github.com/reneloperena/\">Rene Loperena</a>\n\n\n    </p>\n   </center>\n\n\n  </div>\n</div>\n\n";
+  return "<div class=\"row v-height-full\">\n  <div class=\"columns large-12 v-align-center\">\n\n    <!-- <h2 class=\"text-center\">Page 5</h2> -->\n    <center>\n    <p>The Creators.<p>\n      <p></p>\n\n    <p><a href=\"https://github.com/jameslaneconkling\">James Conkling</a>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <a href=\"http://lina.lu/\">Lina Lu</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <a href=\"https://github.com/oshaikh13/\">Omar Shaikh</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <a href=\"https://github.com/reneloperena/\">Rene Loperena</a>\n\n\n    </p>\n   </center>\n\n\n  </div>\n</div>\n\n";
   });
 
 },{"hbsfy/runtime":26}],14:[function(require,module,exports){
