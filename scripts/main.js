@@ -82,7 +82,7 @@ helpers = this.merge(helpers, Handlebars.helpers); data = data || {};
   
 
 
-  return "<div class=\"row\">\n  <div class=\"columns small-push-4 small-4 text-center\">\n    <div>A<br><strong><a href=\"#\">Gregarious Pony</a></strong><br>Project</div>\n  </div>\n  <div class=\"columns small-4\">\n    <ul class=\"inline-list right animate\">\n      <li><a href=\"#\">Support</a></li>\n      <li><a href=\"#\">Privacy Policy</a></li>\n    </ul>\n  </div>\n</div>\n";
+  return "<div class=\"row\">\n  <div class=\"columns small-push-4 small-4 text-center\">\n    <div>A<br><strong><a href=\"#\">Gregarious Pony</a></strong><br>Product</div>\n  </div>\n  <div class=\"columns small-4\">\n    <ul class=\"inline-list right animate\">\n      <li><a href=\"#\">Support</a></li>\n      <li><a href=\"#\">Privacy Policy</a></li>\n    </ul>\n  </div>\n</div>\n";
   });
 
 },{"hbsfy/runtime":26}],7:[function(require,module,exports){
@@ -94,7 +94,7 @@ helpers = this.merge(helpers, Handlebars.helpers); data = data || {};
   
 
 
-  return "<div class=\"row\">\n  <div class=\"columns col12\">\n    <ul class=\"no-bullet\">\n      <li class=\"title animate\"><a href=\"#\">I'm Free</a></li>\n      <ul class=\"menu no-bullet\">\n        <li class=\"animate\"><a href=\"#\">Coming soon to your favourite mobile app store</a></li>\n      </ul>\n    </ul>\n  </div>\n</div>\n\n";
+  return "<div class=\"row\">\n  <div class=\"columns col12\">\n    <ul class=\"no-bullet\">\n      <li class=\"title animate\"><a href=\"#\">I'm Free</a></li>\n      <ul class=\"menu no-bullet\">\n        <li class=\"animate\"><a href=\"#\">Coming soon to your favorite app store</a></li>\n      </ul>\n    </ul>\n  </div>\n</div>\n\n";
   });
 
 },{"hbsfy/runtime":26}],8:[function(require,module,exports){
@@ -142,7 +142,7 @@ helpers = this.merge(helpers, Handlebars.helpers); data = data || {};
   
 
 
-  return "<div class=\"row v-height-full\">\n  <div class=\"columns large-12 v-align-center\">\n\n    <!-- <h2 class=\"text-center\">Page 3</h2> -->\n    <center>\n    <p>Geo location optimised to find the people closest to you.</p>\n    </center>\n\n\n\n\n\n  </div>\n</div>\n\n";
+  return "<div class=\"row v-height-full\">\n  <div class=\"columns large-12 v-align-center\">\n\n    <!-- <h2 class=\"text-center\">Page 3</h2> -->\n    <center>\n    <p>Geo location optimized to find the people closest to you.</p>\n    </center>\n\n\n\n\n\n  </div>\n</div>\n\n";
   });
 
 },{"hbsfy/runtime":26}],12:[function(require,module,exports){
@@ -154,7 +154,7 @@ helpers = this.merge(helpers, Handlebars.helpers); data = data || {};
   
 
 
-  return "<div class=\"row v-height-full\">\n  <div class=\"columns large-12 v-align-center\">\n\n    <!-- <h2 class=\"text-center\"></h2> -->\n    <center>\n    <p>Coming soon to your favourite mobile app store</p>\n    <p></p>\n    <p></p>\n    <p>For enquiries and support: contact imfreeiomail@gmail.com</p>\n    </center>\n\n\n  </div>\n</div>\n\n";
+  return "<div class=\"row v-height-full\">\n  <div class=\"columns large-12 v-align-center\">\n\n    <!-- <h2 class=\"text-center\"></h2> -->\n    <center>\n    <p>Coming soon to your favorite app store</p>\n    <p></p>\n    <p></p>\n    <p>Enquiries & support: imfreeiomail@gmail.com</p>\n    </center>\n\n\n  </div>\n</div>\n\n";
   });
 
 },{"hbsfy/runtime":26}],13:[function(require,module,exports){
@@ -166,7 +166,7 @@ helpers = this.merge(helpers, Handlebars.helpers); data = data || {};
   
 
 
-  return "<div class=\"row v-height-full\">\n  <div class=\"columns large-12 v-align-center\">\n\n    <!-- <h2 class=\"text-center\">Page 5</h2> -->\n    <center>\n    <p>The Creators.<p>\n      <p></p>\n\n    <p><a href=\"https://github.com/jameslaneconkling\">James Conkling</a>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <a href=\"http://lina.lu/\">Lina Lu</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <a href=\"https://github.com/oshaikh13/\">Omar Shaikh</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <a href=\"https://github.com/reneloperena/\">Rene Loperena</a>\n\n\n    </p>\n   </center>\n\n\n  </div>\n</div>\n\n";
+  return "<div class=\"row v-height-full\">\n  <div class=\"columns large-12 v-align-center\">\n\n    <!-- <h2 class=\"text-center\">Page 5</h2> -->\n    <center>\n    <p>The Creators.<p>\n      <p></p>\n\n    <p><a href=\"http://lina.lu/\">Lina Lu</a>    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <a href=\"https://github.com/jameslaneconkling\">James Conkling</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <a href=\"https://github.com/oshaikh13/\">Omar Shaikh</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <a href=\"https://github.com/reneloperena/\">Rene Loperena</a>\n\n\n    </p>\n   </center>\n\n\n  </div>\n</div>\n\n";
   });
 
 },{"hbsfy/runtime":26}],14:[function(require,module,exports){
